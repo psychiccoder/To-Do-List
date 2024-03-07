@@ -1,4 +1,4 @@
-const inputBox = document.getElementById("input-box")
+const inputBox = document.querySelector("#input-box")
 const listContainer = document.getElementById("list-container")
 
 function addTask() {
